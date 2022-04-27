@@ -1,0 +1,103 @@
+body  
+{   
+    font-family: 'Arial';  
+    background-image: url("wall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+#login{  
+    width: 500px;
+    height: 75px;
+    padding: 10px;  
+    background-color: #f7f7f7;  
+    border-radius: 15px ;  
+    margin-top: 40px;
+    background-color: #020202;
+    margin-left: 35%;
+    opacity:0.8;
+}
+#login1{
+    border-radius: 15px ;  
+    opacity:0.8;
+}
+#login4{
+
+    border-radius: 15px ;  
+/*    margin-top: -5%;*/
+    opacity:0.8;
+}
+#login3{
+     
+        padding: 10px;    
+        border-radius: 15px ;  
+        margin-top: 40px;
+        margin-left: 10%;
+        opacity:0.8;
+     
+} 
+h2{  
+text-align: center;  
+color: #020202;  
+padding: 20px;  
+} 
+h4{
+    color:#095546
+}
+label{  
+color: #ffffff;  
+font-size: 20px;
+    margin-left:50px;
+}  
+#Uname{  
+width: 200px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+align-self: center;
+}  
+#Pass{  
+width: 200px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+margin-top: 2%;
+  
+}  
+#sin{  
+width: 150px;  
+height: 30px;  
+border-radius: 17px;  
+padding-left: 7px;  
+color: rgb(0, 0, 0);
+margin: 20px;
+} 
+#sup{  
+width: 150px;  
+height: 30px;  
+border-radius: 17px;  
+padding-left: 7px;  
+color: rgb(0, 0, 0);
+margin: 20px;
+} 
+#log{  
+    width: 150px;  
+    height: 30px;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    }
+.image{
+    margin-left: 45px;
+    margin:-8px;
+}
+.sty{
+    color: #020202;
+    font-weight:700;
+    font-family: 'Arial'; 
+}
+h1{
+    color: #f7f7f7;
+}
